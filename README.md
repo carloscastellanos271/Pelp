@@ -1,4 +1,5 @@
 # Pelp
 Yelp for finding restrooms
 
-![image](https://user-images.githubusercontent.com/96276293/172743217-1a21f3b6-b43b-4717-b1ed-aa6e28d6f58a.png)
+![image](https://user-images.githubusercontent.com/96276293/172743342-46ce8a94-293e-4c44-8449-e04d6a8f6d33.png)
+
